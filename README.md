@@ -279,8 +279,15 @@ Also caught at the contract level if the balance check fails post-submission.
 ### Mobile (Responsive) View
 ![Mobile view](screenshots/mobileview.png)
 
+### CI/CD Pipeline Passing
+![CI/CD Pipeline Checks](screenshots/ci_pipeline.png)
+
+### Smart Contract Test Execution (Passing Tests)
+![Smart Contract Test Output](screenshots/test_output.png)
+
 ### Full App Demo (Animated)
 ![App demo flow](screenshots/demo_video.gif)
+
 
 ### Test Output (11 passing tests)
 
